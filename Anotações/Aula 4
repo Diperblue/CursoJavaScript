@@ -1,0 +1,11 @@
+JavaScript:
+  Aula 4:
+  
+	window.alert()
+ Aparece um alerta no navegador.
+
+ 	window.confirm()
+ Aparece um alerta com um botão de OK e Cancelar
+
+ 	window.prompt()
+ Aparece um alerta como uma pergunta com uma barra para copiar a resposta

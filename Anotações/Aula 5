@@ -1,8 +1,34 @@
  	Javascript:
  Aula 5:
  Comentario:
+
  // > Uma unica linha
  
  /*
- 	Mais de uma linha
- 						*/
+ 	Mais 
+ 	de 
+ 	uma 
+ 	linha
+ 			*/
+ Variavel:
+
+ var (Indentificador) = {Oque as variaveis contem}
+ let (Indentificador) = {Oque as variaveis contem}
+
+ Ex utilizado no video:
+
+ var n1 = 5
+ var n2 = 8.5
+ var n3 = 15
+ Regras:
+ Podem começar com letra,$ ou _
+
+ Não podem começar com números
+
+ É possível usar letras ou números
+
+ É possível usar acentos ou símbolos
+
+ Não podem conter espaços
+
+ Não podem ser palavras reservadas

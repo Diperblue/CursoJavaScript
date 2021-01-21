@@ -32,3 +32,13 @@
  Não podem conter espaços
 
  Não podem ser palavras reservadas
+
+ Tipos de dados:
+
+ Nubers = numeros
+ Strings = Cadeia de caracteres
+ Boolean = True, False
+
+ 	typeof ():
+ 	
+ Commando para saber os tipos

@@ -1,4 +1,61 @@
-	JavaScript:
+JavaScript:
+  Aula 4:
+  
+	window.alert()
+ Aparece um alerta no navegador.
+
+ 	window.confirm()
+ Aparece um alerta com um botão de OK e Cancelar
+
+ 	window.prompt()
+ Aparece um alerta como uma pergunta com uma barra para copiar a resposta
+
+  	Javascript:
+ Aula 5:
+ Comentario:
+
+ // > Uma unica linha
+ 
+ /*
+ 	Mais 
+ 	de 
+ 	uma 
+ 	linha
+ 			*/
+ Variavel:
+
+ var (Indentificador) = {Oque as variaveis contem}
+ let (Indentificador) = {Oque as variaveis contem}
+
+ Ex utilizado no video:
+
+ var n1 = 5
+ var n2 = 8.5
+ var n3 = 15
+ Regras:
+ Podem começar com letra,$ ou _
+
+ Não podem começar com números
+
+ É possível usar letras ou números
+
+ É possível usar acentos ou símbolos
+
+ Não podem conter espaços
+
+ Não podem ser palavras reservadas
+
+ Tipos de dados:
+
+ Nubers = numeros
+ Strings = Cadeia de caracteres
+ Boolean = True, False
+
+ 	typeof ():
+ 	
+ Commando para saber os tipos
+
+ 	JavaScript:
  Aula 6:
  	Conversão de String para um Number:
  Para intero:

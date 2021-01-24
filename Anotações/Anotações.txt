@@ -305,3 +305,51 @@
 
  				 		Ex:
  				 			média >= 7 ? "Aprovado" : "Reprovado"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Aula 9:
+ 		Selecionando:
+
+ 			por Marca:
+
+ 				getElementsByTagName()
+
+ 					Utilizando [], eu posso escolher qual os que vão ser utilizador
+
+ 			por ID:
+
+ 				getElementsbyID()
+
+ 					Utilizando [], eu posso escolher qual os que vão ser utilizador
+
+
+ 			por Nome:
+
+ 				getElementsByName()
+
+ 					Utilizando [], eu posso escolher qual os que vão ser utilizador
+
+
+ 			por Classe:
+
+ 				getElementsByClassesName()
+
+ 					Utilizando [], eu posso escolher qual os que vão ser utilizador
+
+
+ 			por Seletor:
+
+ 				querySelector()
+ 				querySelectorAll()

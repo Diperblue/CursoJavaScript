@@ -1,5 +1,5 @@
-JavaScript:
-  Aula 4:
+
+  	Aula 4:
   
 	window.alert()
  Aparece um alerta no navegador.
@@ -16,8 +16,8 @@ JavaScript:
 
 
 
-  	Javascript:
- Aula 5:
+  	
+ 	Aula 5:
  Comentario:
 
  // > Uma unica linha
@@ -68,11 +68,11 @@ JavaScript:
 
 
 
- 	JavaScript:
- Aula 6:
- 
+ 	
+ 	Aula 6:
+
  	Conversão de String para um Number:
- Para intero:
+ Para inteirontero:
   Number.parseInt(n)
 
  Para numero Real:
@@ -137,4 +137,67 @@ JavaScript:
 
  			.toLocaleString > localizar um caracter do mundo
  			'pt-BR' > de onde e esse caracter
- 			{style: 'currency', currency:'BRL'} > pra mostrar em valor monetario 
+ 			{style: 'currency', currency:'BRL'} > pra mostrar em valor monetario
+
+
+
+
+
+ 	Aula 7:
+
+ Operadore Aritimeticos:
+
+ 	Adição:
+
+ 	5 + 2 = 7
+
+ 	Subtração:
+
+ 	5 - 2 = 3
+
+ 	Multiplicação:
+
+ 	5 * 2 = 10
+
+ 	Divisão:
+
+ 	5 / 2 = 2.5
+
+ 	Resto da Divisão:
+
+ 	5 % 2 = 1
+
+ 	Potenciação:
+
+ 	5 ** 2 = 25
+
+ 		PROCEDÊNCIA:
+
+ 			()
+ 			**
+ 			* / %
+ 			+ -
+
+ 	Auto-Atribuição:
+
+ 		var n = 3
+
+ 		n = n + 4
+
+ 			Forma Simplificada:
+ 				n += 4
+ 				n -= 4
+
+ 				Mesma coisa de:
+
+ 					n = n + 4
+ 					n = n - 4
+
+ 			Incremento:
+
+ 				x ++
+ 				x --
+
+ 				E a mesma coisa de:
+ 					x +=
+ 					x -=

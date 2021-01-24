@@ -10,6 +10,12 @@ JavaScript:
  	window.prompt()
  Aparece um alerta como uma pergunta com uma barra para copiar a resposta
 
+
+
+
+
+
+
   	Javascript:
  Aula 5:
  Comentario:
@@ -55,43 +61,80 @@ JavaScript:
  	
  Commando para saber os tipos
 
+
+
+
+
+
+
+
  	JavaScript:
  Aula 6:
+ 
  	Conversão de String para um Number:
  Para intero:
   Number.parseInt(n)
+
  Para numero Real:
   Number.parseFloat(n)
 
+
  Para o javascript decidir se e inteiro ou e real:
+
   Number(n)
+
+
 	 Conversão de String para um Number:
  De Numero para string:
   String(n)
  	 ou
  n.toString()
+
+
  	Formatação de Strings:
  `${s}`
 
+
+
  Quantos caracteres a string tem:
- 	s.length < ATRIBUTO
+ 	s.length
+
+ 		length < ATRIBUTO
+
  Conversão para letras "MAIÚSCULAS':
  	s.toUpperCase()
+
+
  Conversão para letras 'minúsculas':
  	s.toLowerCase()
+
+
  Escrever na tela:
+
  	document.write()
+
+
+
  	 Formatação de Numbers:
  Adicionar casas:
  	n.toFixed()
+
  		n > variavel
  		() > quantidade de casas
+
+
+
  Adicionar virgula:
  .replace('.', ',')
+
  		('.') > oque sera substituido
  		(',') > oque ficou no lugar
+
+
+
  	Para mostrar o real:
  		n.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
+
  			.toLocaleString > localizar um caracter do mundo
  			'pt-BR' > de onde e esse caracter
  			{style: 'currency', currency:'BRL'} > pra mostrar em valor monetario 

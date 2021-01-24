@@ -16,6 +16,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
   	
  	Aula 5:
  Comentario:
@@ -60,6 +69,17 @@
  	typeof ():
  	
  Commando para saber os tipos
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -143,6 +163,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
  	Aula 7:
 
  Operadore Aritimeticos:
@@ -201,3 +233,75 @@
  				E a mesma coisa de:
  					x +=
  					x -=
+
+
+
+
+
+
+
+
+
+
+ Aula 7 Part 2:
+
+ 		5 > 2 = True
+
+ 		7 < 4 = False
+
+ 		8 >= 8 = True
+
+ 		9 <= 7 = False
+
+ 		5 == 5 = True
+
+ 		4 != 4 = False
+
+ 		5 !== 5 = True
+
+ 			!==:
+
+ 				Desilqual restrito
+
+ 			Identidade:
+
+ 				5 == 5 = True
+
+ 				5 == '5' = True
+
+ 				5 === '5' = False
+
+ 				A diferença entre == e === e que == testa so a valor e === testa de os os operadores são identicos
+
+ 			Lógicos:
+
+ 				!:
+ 					Negação
+
+ 						!:
+ 							Ele e tratado como operador unario
+ 							ou e TRUE ou e FALSE
+	
+ 									True = False
+ 								! 	
+ 									False = True
+
+ 				&&:
+ 					Conjução
+
+ 						&&:
+ 							Quero duas coisas
+
+ 				||:
+ 					Disjunção
+
+ 						||:
+ 							Ou e um ou e outro o objetivo e acontecer uma das opções
+ 			Ternário:
+
+ 				Ele se chama ternario porque ele junta 3 partes
+
+ 				 		teste ? true : false 
+
+ 				 		Ex:
+ 				 			média >= 7 ? "Aprovado" : "Reprovado"

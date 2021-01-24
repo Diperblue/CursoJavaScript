@@ -92,7 +92,6 @@ JavaScript:
  		(',') > oque ficou no lugar
  	Para mostrar o real:
  		n.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
-
  			.toLocaleString > localizar um caracter do mundo
  			'pt-BR' > de onde e esse caracter
  			{style: 'currency', currency:'BRL'} > pra mostrar em valor monetario 

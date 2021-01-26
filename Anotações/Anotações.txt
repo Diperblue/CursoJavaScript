@@ -353,3 +353,44 @@
 
  				querySelector()
  				querySelectorAll()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Aula 10:
+ 	DOM:
+ 		mouseenter:
+ 			quando mause entra na div
+ 		mousemove:
+ 			quando você move o mause dentro da div
+ 		mousedown:
+ 			quando você clica
+ 		mouseup:
+ 			quando você termina o click
+ 		click:
+ 			quando você clica muito rapido
+ 		mouseout:
+ 			quando você move o mause pra fora da dive
+
+ 				Para mais DOM events:
+ 					https://developer.mozilla.org/pt-BR/docs/Web/Events
+ 		
+ 		Oque e função:
+ 			Função e um amuntuado de blocos que ao ser chamado
+ 			executa algo;Como e o commando da função;
+ 				Function (nome) (parametro) {
+
+ 				}

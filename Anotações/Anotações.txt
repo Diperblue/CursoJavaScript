@@ -387,10 +387,35 @@
 
  				Para mais DOM events:
  					https://developer.mozilla.org/pt-BR/docs/Web/Events
- 		
+ 	function:	
  		Oque e função:
  			Função e um amuntuado de blocos que ao ser chamado
  			executa algo;Como e o commando da função;
  				Function (nome) (parametro) {
 
  				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aula 11:
+	Condições:
+		if (condição) {
+			TRUE
+
+		} else {
+			FALSE
+		
+		}
+		
+	Console.log //copiar na tela
+	
